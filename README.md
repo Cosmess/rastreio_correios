@@ -1,1 +1,1 @@
-# usuairo do serviço api.linketrack.com esta configurado  como usuario teste
+# usario do serviço api.linketrack.com esta configurado  como usuario teste
